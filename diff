@@ -1,0 +1,132 @@
+[1mdiff --git a/compsoc-constitution.pdf b/compsoc-constitution.pdf[m
+[1mindex f2da1b0..83966f2 100644[m
+Binary files a/compsoc-constitution.pdf and b/compsoc-constitution.pdf differ
+[1mdiff --git a/compsoc-constitution.tex b/compsoc-constitution.tex[m
+[1mindex 6e9aaff..44f3b8c 100644[m
+[1m--- a/compsoc-constitution.tex[m
+[1m+++ b/compsoc-constitution.tex[m
+[36m@@ -55,9 +55,10 @@[m [mEdinburgh Computing and Artificial Intelligence Society''.[m
+     \end{itemize}[m
+ [m
+ [m
+[31m-  \item The benefits of the Society are:[m
+[32m+[m[32m  \item The benefits of the Society can be:[m
+     \begin{itemize}[m
+       \item Free Pizza[m
+[32m+[m[32m      \item Free freebies[m
+       \item Allow likeminded individuals the chance to socialise and network[m
+       \item Allow the indulgence of all geekery[m
+       \item Organised events to benefit those interested in technology[m
+[36m@@ -72,9 +73,9 @@[m [mEdinburgh Computing and Artificial Intelligence Society''.[m
+ [m
+   \item Membership shall be at least 75\% matriculated students of Edinburgh University.[m
+ [m
+[31m-  \item All members who are not matriculated students of The University of Edinburgh shall pay at least twice the annual subscription.[m
+[32m+[m[32m  \item All members who are not matriculated students of a University shall pay at least twice the annual subscription.[m
+ [m
+[31m-  \item The society’s cheques must require two signatories; One must be the Treasurer and the other President or Secretary.[m
+[32m+[m[32m  \item The society’s cheques must require two signatories; Taking two from the Treasurer, President and Secretary.[m
+ [m
+   \item The society has taken and will continue to take all necessary steps to ensure that our meetings, events and socials are accessible to all, irrespective of any disability. [m
+ [m
+[36m@@ -90,7 +91,17 @@[m [mEdinburgh Computing and Artificial Intelligence Society''.[m
+     disability, HIV status, sexual orientation, gender reassignment,[m
+     family situation, domestic responsibilities or any other irrelevant distinction,[m
+     is detrimental to the society, the University and wider society, and[m
+[31m-    will not be tolerated.[m
+[32m+[m[32m    will not be tolerated. As such the society operates a safe space policy:-[m
+[32m+[m[32m    \begin{enumerate}[m
+[32m+[m[32m      \item Safe Space complaints must be made to one of the executive committee (President,[m[41m [m
+[32m+[m[32m        Secretary or Treasurer) unless the complaint is against all three executives, in which case the[m[41m [m
+[32m+[m[32m        complaint should be made to another committee member, the School Covenor, Vice Covenor or EUSA representative.[m
+[32m+[m[32m      \item It is not a requirement that the details of the safe space abuse are made known to the committee; However[m
+[32m+[m[32m        this will aid in taking appropriate action on the complaint.[m
+[32m+[m[32m      \item An EGM must be held to examine the complaint and decide on the appropriate action to[m
+[32m+[m[32m        take which may include but not be limited to ejection from the society, formal warnings, University Disciplinary[m[41m [m
+[32m+[m[32m        action, no action and legal action.[m
+[32m+[m[32m    \end{enumerate}[m
+     [m
+   \item The society shall remain ``Most Excellent''[m
+ [m
+[36m@@ -108,20 +119,23 @@[m [mEdinburgh Computing and Artificial Intelligence Society''.[m
+ [m
+   \item The President, Secretary and Treasurer of the society shall be matriculated students of The University of Edinburgh.[m
+ [m
+[31m-    \begin{itemize}[m
+[32m+[m[32m  \item Elected committee positions are as follows:-[m
+[32m+[m[32m    \begin{enumerate}[m
+       \item The President shall be ultimately responsible for the conduct of the society[m
+       \item The Secretary shall be responsible to the President for the administration of the society[m
+[31m-      \item The Treasurer shall be responsible to the President for the finances of the society.[m
+[31m-    \end{itemize}[m
+[31m-    [m
+[31m-  \item Society office bearers will attend annual society training as outlined by the Societies Team[m
+[31m-  [m
+[31m-  \item Other elected positions on the committee may be Vice President, Social[m
+[31m-    Secretary, Technical Secretary, Second Year Representative, [m
+[31m-    Third Year Representative and Fourth Year Representative.[m
+[32m+[m[32m      \item The Treasurer shall be responsible to the President for the finances of the society[m
+[32m+[m[32m      \item Society office bearers will attend annual society training as outlined by the Societies Team[m
+[32m+[m[32m      \item Other elected positions on the committee may be Vice President, Hack Secretary, Social[m
+[32m+[m[32m        Secretary, Technical Secretary, Second Year Representative,[m[41m [m
+[32m+[m[32m        Third Year Representative and Fourth Year Representative.[m
+[32m+[m[32m    \end{enumerate}[m
+ [m
+   \item The year representatives must be students which will be enrolled in that year the semester [m
+     following the AGM. At the time of the AGM the Second Year Representative should be a first year, etc.[m
+[32m+[m[41m  [m
+[32m+[m[32m  \item The First Year (Fresher's) Representative is a special case and will be elected at the first STMU (Or EGM)[m
+[32m+[m[32m    in the first semester before the end of October. If the position is not filled the committee may select a[m
+[32m+[m[32m    willing first year or hold subsequent re-elections.[m
+ [m
+   \item The following are guidelines as to what role the person in these positions shall have in the society:[m
+     \begin{enumerate}[m
+[36m@@ -141,6 +155,11 @@[m [mEdinburgh Computing and Artificial Intelligence Society''.[m
+         offcial events.[m
+       \item The Year Representatives shall be responsible for communicating to[m
+         and promoting the society to students in their year.[m
+[32m+[m[32m      \item The Hack Secretary shall be responsible for organising and assembling[m[41m [m
+[32m+[m[32m        an organisation team/SIG for any hackathons the committee wishes to run.[m
+[32m+[m[32m      \item The Technical Secretary shall be responsible for maintaining any servers[m
+[32m+[m[32m        and services that the society is running for both the committee and members.[m
+[32m+[m[32m        The Tech Sec will also be responsible for any technical setups for society events.[m
+     \end{enumerate}[m
+ [m
+     It is important to note that the above are suggestions to what those elected[m
+[36m@@ -157,15 +176,11 @@[m [mEdinburgh Computing and Artificial Intelligence Society''.[m
+           the committee.[m
+         \item The leaders of the Special Interest Groups have a place and vote on[m
+           the committee (see below, ”Special Interest Groups”)[m
+[31m-        \item A First Year Representative shall be taken onto the committee by the[m
+[31m-          end of October of the first semester of every term. It is up to the[m
+[31m-          committee to select a first year representative, but the commitee is[m
+[31m-          encouraged to facilitate a vote by first year students.[m
+       \end{enumerate}[m
+ [m
+     \item The committee may find it helpful to appoint members to additional positions[m
+[31m-      on the committee after the elections for handling things like the CompSoc website.[m
+[31m-      These must be co-opted onto the committee by a two third majority of the current committee.[m
+[32m+[m[32m      on the committee after the elections. These must be co-opted onto the committee by a two[m
+[32m+[m[32m      third majority of the current committee.[m
+ [m
+ \end{enumerate}[m
+ % End section 'The Committee'[m
+[36m@@ -284,7 +299,7 @@[m [mEdinburgh Computing and Artificial Intelligence Society''.[m
+   \item Votes shall be cast by the raising of hands, unless any member requests[m
+     otherwise, in which case votes shall be cast by secret ballot.[m
+ [m
+[31m-  \item Current Office Bearers must be assigned to the Society Profile immediately[m
+[32m+[m[32m  \item New Office Bearers must be assigned to the Society Profile immediately[m
+     upon election[m
+ [m
+   \item The following shall be the procedure for amending the constitution:-[m
+[36m@@ -358,8 +373,7 @@[m [mEdinburgh Computing and Artificial Intelligence Society''.[m
+   [m
+   \item The quorum of a general meeting shall be the same as that for an AGM.[m
+ [m
+[31m-  \item Votes shall be cast by the raising of hands, unless any member requests[m
+[31m-    otherwise, in which case votes shall be cast by secret ballot.[m
+[32m+[m[32m  \item The administrative running of an EGM shall be identical to that of an AGM.[m
+ [m
+ \end{enumerate}[m
+ % End section 'EGM'[m
