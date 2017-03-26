@@ -1,7 +1,0 @@
-# Compile
-
-run make, this generates the PDF and DVI.
-
-# View
-
-* View the DVI using xdvi compsoc-constitution.dvi&
