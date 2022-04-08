@@ -1,80 +1,54 @@
-% Preamble
-% ---
 \documentclass{article}
 
-% Packages
-% ---
-
-\usepackage{geometry}
-\usepackage{textcomp}
-
-% Commands
-% --
-
-\newcommand*{\SignatureAndDate}[1]{%
-    \par\noindent\makebox[2.5in]{\hrulefill} \hfill\makebox[2.0in]{\hrulefill}%
-    \par\noindent\makebox[2.5in][l]{#1}      \hfill\makebox[2.0in][l]{Date}%
-}%
-
-\geometry{
-  a4paper,
-  total={210mm,297mm},
-  left=20mm,
-  right=20mm,
-  top=20mm,
-  bottom=20mm,
-}
-
-% Document
-% ---
-
-\begin{document}
+\usepackage[T1]{fontenc}
+\usepackage[british]{babel}
+\usepackage[a4paper]{geometry}
+\usepackage{microtype}
+\usepackage{csquotes}
 
 \title{CompSoc Constitution}
 \author{The University of Edinburgh Technology Society}
-\date{\today{}}
+\date{\today}
+
+\begin{document}
+
+\frenchspacing
+
 \maketitle
 
 \input{sections/general.tex}
-
-\newpage{}
-
+\newpage
 \input{sections/committee.tex}
-
-\newpage{}
-
+\newpage
 \input{sections/sigs.tex}
-
-\newpage{}
-
+\newpage
 \input{sections/agm.tex}
-
-\newpage{}
-
+\newpage
 \input{sections/egm.tex}
-
-\newpage{}
-
+\newpage
 \input{sections/committee-meetings.tex}
-
+\newpage
 \section{Signatures}
 
 \begin{enumerate}
-  \item The acting executive committee shall sign one or more paper copies of the constitution
-    to show agreement with the above terms:
+\item The acting executive committee shall sign one or more paper copies of the constitution to show agreement with the above terms:
 \end{enumerate}
 
-% Signatures
-% ---
-\vspace{2cm}
-\SignatureAndDate{President}
-\vspace{2cm}
-\SignatureAndDate{Secretary}
-\vspace{2cm}
-\SignatureAndDate{Treasurer}
+\begin{table}[h]
+  \centering
+  \begin{tabular}{ll}
+    & \\[2cm]
+    \makebox[2.5in]{\hrulefill} & \makebox[2in]{\hrulefill} \\
+    President & Date \\[2cm]
+    \makebox[2.5in]{\hrulefill} & \makebox[2in]{\hrulefill} \\
+    Secretary & Date \\[2cm]
+    \makebox[2.5in]{\hrulefill} & \makebox[2in]{\hrulefill} \\
+    Treasurer & Date \\
+  \end{tabular}
+\end{table}
 
-\vspace{8cm}
+\vfill
 
-CompSoc \(<\)3s \LaTeX
+CompSoc $\heartsuit$ \LaTeX
 
 \end{document}
