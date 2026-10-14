@@ -142,7 +142,7 @@
 == Vice President duties
 + A Vice President may also be appointed and assume part of all of one or more of the Executive Office Bearer roles, on a temporary or permanent basis.
 + Should the Vice President resign, a new Vice President or acting Vice President may be voted in at an EGM.
-+ The Vice President role is an Executive Role and is not mandatory.
++ The Vice President role is a non-executive role and is not mandatory. 
 == Non-Executive Officers
 + The Society may appoint the following Non-Executive Office Bearers. These Additional Non-Executive Officer roles may be created and join the General Committee to reflect the needs of the Society.
 + The Society may appoint the following Non-Executive Office Bearers#footnote("See Guidance Note 3"):
@@ -160,7 +160,7 @@
 + The Society will hold an Annual General Meetings (hereinafter referred to as the AGM) every 12 months during a defined window of time determined by the Association.
 + All members of the Society who have held membership for 7-or-more days are entitled to attend the AGM.
 + It is the responsibility of the Secretary to ensure that members receive at least 14 days written notification of the AGM. This notification will include the Agenda for the AGM.
-+ For the AGM to proceed, at least 20% of members or 10 members (whichever is the greatest) must be present. These members must have held membership for 7-or-more days. This is the ‘Quorum'
++ For the AGM to proceed, at least 20% of members or the maximum which can be resonably accomidated into a room (whichever is the fewest) must be present.
 + The AGM will be documented, and notes of the meeting will record:
     - How many people attended and what % of the overall membership attended
     - Who stood to be elected to Officer Bearer
@@ -178,17 +178,6 @@
 + Each member will have one vote. Members must be present and vote in person.
 + The candidate with the most votes will be appointed to the office.
 + In the event of a draw in an election, the election will be run again. If this run fails to achieve a majority win, the floor will be opened to further nominations for the post and/or reconsidering of nominations of the standing candidates.
-== Motions
-+ A Motion is defined as “a proposal put forward by a member or members of the Society to vote on.”
-+ Motions can be submitted by any member of the Society who has held membership for 7-or-more days.
-+ Each Motion will:
-    - Be submitted in writing to the Executive Committee at least 7 days in advance of the AGM, and
-    - Have a Proposer and a Seconder, and
-    - Be scheduled for debate within the AGM, and
-    - Be subject to a Vote by Society members who have held membership for 7-or-more days.
-+ Each member will have one vote. Members must be present and vote in person. Non-members cannot vote.
-+ For a Motion to be adopted, at least 50% of the votes cast should be in favour of the Motion, unless it is a Motion to alter the Constitution.
-
 = Extraordinary General Meetings
 + Anyone who has been a member for more than 7 days may call an Extraordinary General Meeting for matters arising in the year which require consideration by members.
 + Such a call must be supported by at least 20% of membership.
@@ -212,7 +201,7 @@
 + Expenditure will not exceed the financial resources of the Society.
 + Any reserves at the end of the Financial Year shall be carried over into a Society's available financial resources for the following Financial Year.
 + Any loss carried forward into the following financial year must be notified and explained at the Annual General Meeting.
-+ The Association will provide the Society with a banking facility to enable them to receive income and make payments. The Association will hold these funds on behalf of the Society, but the ownership of the funds remains with the Society.
++ The Association will provide the Society with a banking facility to enable them to receive income and make payments. This can be optionally selected by the society as replacement for holding their own bank account. If it is selected, the Association will hold these funds on behalf of the Society, but the ownership of the funds remains with the Society.
 
 = Re-registration, Annual Reports and Financial Reports
 + Re-registration of all societies must be submitted annually in accordance with the deadlines set by the Association.
@@ -251,6 +240,19 @@
 + The Association will wind up the society if:
     + It has been available for adoption for 24 months without a successful adoption being completed; or
     + A society does not complete an Annual Return for 24 months.
+
+= Committee Meetings
+== Motions
++ A Motion is defined as "a proposal put forward by a member or members of the Society to vote on."
++ Motions can be submitted by any member of the Society who has held membership for 7-or-more days.
++ Each Motion will:
+    - Be submitted in writing to the Executive Committee at least 7 days in advance of the AGM, and
+    - Have a Proposer and a Seconder, and
+    - Be scheduled for debate within one of the next three committee meetings, and
+    - Be subject to a vote by committee.
+== Votes
++ Each member will have one vote. Members must be present and vote in person.
++ For a Motion to be adopted, at least 50% of the votes cast should be in favour of the Motion, unless it is a Motion to alter the Constitution.
 
 = History
 + This constitution was accepted at an AGM held on [insert date here].
